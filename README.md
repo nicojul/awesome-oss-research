@@ -16,7 +16,7 @@ Macro-topics:
 
 ## Strategy and Organization
 - Shah, S., & Nagle, F. (2019). Why do user communities matter for strategy?. Harvard Business School Strategy Unit Working Paper, (19-126). [[link](https://dash.harvard.edu/bitstream/handle/1/37377319/shah,nagle-why-do-user-communities.pdf?sequence=1)]
-
+-  Jullien, N., Viseur, R., Zimmermann, JB . (2025) A theory of FLOSS projects and Open Source business models dynamics. Journal of Systems and Software 224, 112383 [[link] https://www.sciencedirect.com/science/article/abs/pii/S0164121225000512]
 ### Companies
 - Dahlander, L., & Magnusson, M. G. (2005). Relationships between open source software companies and communities: Observations from Nordic firms. Research policy, 34(4), 481-493. [[link](https://www.sciencedirect.com/science/article/pii/S0048733305000405)]
 - Dahlander, L., & Wallin, M. W. (2006). A man on the inside: Unlocking communities as complementary assets. Research policy, 35(8), 1243-1259. [[link](https://www.sciencedirect.com/science/article/pii/S0048733306001387)]
